@@ -18,7 +18,8 @@ const distMatrix = floydWarshall(distMatrixInit);
 
 let paths: Path[] = [];
 
-// Executamos o algoritmo do vizinho mais próximo, iniciando em cada um dos vértices do grafo.
+// Executamos a heurística do vizinho mais próximo (Bellmore Nemhau),
+// iniciando em cada um dos vértices do grafo.
 for (let start = 0; start < distMatrix.length; start++) {
   // Escolher o vértice inicial e adicioná-lo à estrutura de dados.
   // Para representar o caminho usa-se um array contendo o vértice e a distância percorrida
