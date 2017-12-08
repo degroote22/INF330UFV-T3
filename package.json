@@ -1,0 +1,13 @@
+{
+  "name": "trab3grafos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "tsc": "tsc",
+    "start": "yarn run tsc && node dist/index.js"
+  },
+  "dependencies": {
+    "typescript": "^2.6.2"
+  }
+}

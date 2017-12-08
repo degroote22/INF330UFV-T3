@@ -1,0 +1,43 @@
+DISTÂNCIAS,BRÁS,BROOKLIN,BUTANTÃ,"CALMON
+VIANA ","CAPÃO
+REDONDO",CORINTHIANS,DIADEMA,ESTUDANTES,FERRAZÓPOLIS,GRAJAÚ,GUAIANASES,ITAPEVI,JABAQUARA,JUNDIAÍ,LUZ,MORUMBI,ORATÓRIO,OSASCO,PALMEIRAS ,PARAÍSO,PAULISTA,PINHEIROS,REPÚBLICA,"SANTO
+AMARO","SANTO
+ANDRÉ","SÃO
+BERNARDO","SÃO
+MATHEUS",RIO GRANDE,SÉ,TAMANDUATEÍ ,TATUAPÉ,TUCURUVI,"VILA
+MADALENA","VILA
+PRUDENTE"
+BRÁS,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,6,11,9,inf,inf,inf
+BROOKLIN,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,6,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+BUTANTÃ,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,2,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+CALMON VIANA ,inf,inf,inf,inf,inf,inf,inf,21,inf,inf,16,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,57,inf,inf,inf
+CAPÃO REDONDO,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,10,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+CORINTHIANS,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,10,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,21,inf,inf,inf
+DIADEMA,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,16,inf,inf,20,inf,inf,inf,inf,inf,inf,inf,inf,inf,31,inf,inf,inf,inf,inf,inf,inf,inf
+ESTUDANTES,inf,inf,inf,21,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+FERRAZÓPOLIS,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,8,inf,inf,inf,inf,inf,inf,inf,inf
+GRAJAÚ,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,14,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+GUAIANASES,inf,inf,inf,16,inf,10,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+ITAPEVI,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,38,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+JABAQUARA,inf,inf,inf,inf,inf,inf,16,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,16,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+JUNDIAÍ,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,84,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+LUZ,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,6,inf,inf,inf,2,inf,inf,inf,inf,inf,4,inf,inf,16,inf,inf
+MORUMBI,inf,inf,inf,inf,inf,inf,20,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,10,inf,6,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+ORATÓRIO,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,3
+OSASCO,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,38,inf,inf,inf,inf,inf,inf,18,inf,inf,13,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+PALMEIRAS ,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,84,6,inf,inf,18,inf,inf,inf,inf,9,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+PARAÍSO,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,16,inf,inf,inf,inf,inf,inf,inf,6,inf,inf,inf,inf,inf,inf,inf,8,12,inf,inf,inf,inf
+PAULISTA,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,6,inf,6,2,inf,inf,inf,inf,inf,inf,inf,inf,inf,6,inf
+PINHEIROS,inf,inf,2,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,10,inf,13,inf,inf,6,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+REPÚBLICA,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,2,inf,inf,inf,9,inf,2,inf,inf,inf,inf,inf,inf,inf,6,inf,inf,inf,inf,inf
+SANTO AMARO,inf,6,inf,inf,10,inf,inf,inf,inf,14,inf,inf,inf,inf,inf,6,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+SANTO ANDRÉ,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,30,30,30,inf,15,inf,inf,inf,inf
+SÃO BERBARDO,inf,inf,inf,inf,inf,inf,31,inf,8,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,30,inf,inf,inf,inf,inf,inf,inf,inf,inf
+SÃO MATHEUS,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,30,inf,inf,inf,inf,inf,inf,inf,inf,inf
+RIO GRANDE,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,30,inf,inf,inf,inf,inf,inf,inf,inf,inf
+SÉ,6,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,4,inf,inf,inf,inf,8,inf,inf,6,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+TAMANDUATEÍ ,11,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,12,inf,inf,inf,inf,15,inf,inf,inf,inf,inf,inf,inf,inf,2
+TATUAPÉ,9,inf,inf,57,inf,21,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+TUCURUVI,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,16,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+VILA MADALENA,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,6,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+VILA PRUDENTE,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,3,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,2,inf,inf,inf,inf
